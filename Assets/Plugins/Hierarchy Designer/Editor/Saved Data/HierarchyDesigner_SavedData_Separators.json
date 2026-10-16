@@ -1,0 +1,641 @@
+{
+    "items": [
+        {
+            "Name": "AssetsRezDeChaussée",
+            "TextColor": {
+                "r": 0.7641509771347046,
+                "g": 0.6963979005813599,
+                "b": 0.025231415405869485,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.3890174329280853,
+                "g": 0.5849056243896484,
+                "b": 0.3956577181816101,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        },
+        {
+            "Name": "Assets1eEtage",
+            "TextColor": {
+                "r": 0.7647059559822083,
+                "g": 0.6980392336845398,
+                "b": 0.02352941408753395,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.47472408413887026,
+                "g": 0.7924528121948242,
+                "b": 0.48743322491645815,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        },
+        {
+            "Name": "Player",
+            "TextColor": {
+                "r": 0.13594695925712586,
+                "g": 0.4975099563598633,
+                "b": 0.6132075786590576,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.9056603908538818,
+                "g": 0.6707602739334106,
+                "b": 0.1666073501110077,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        },
+        {
+            "Name": "Basement",
+            "TextColor": {
+                "r": 0.7647059559822083,
+                "g": 0.6980392336845398,
+                "b": 0.02352941408753395,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.3414026200771332,
+                "g": 0.5283018946647644,
+                "b": 0.3482404053211212,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        },
+        {
+            "Name": "Caméras",
+            "TextColor": {
+                "r": 0.8396226167678833,
+                "g": 0.7722944021224976,
+                "b": 0.7722944021224976,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        },
+        {
+            "Name": "Plafonds",
+            "TextColor": {
+                "r": 0.5377358198165894,
+                "g": 0.2511124610900879,
+                "b": 0.3914124369621277,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        },
+        {
+            "Name": "Lights",
+            "TextColor": {
+                "r": 1.0,
+                "g": 0.3490772545337677,
+                "b": 0.1462264060974121,
+                "a": 1.0
+            },
+            "IsGradientBackground": false,
+            "BackgroundColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "BackgroundGradient": {
+                "serializedVersion": "2",
+                "key0": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key1": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "key2": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key3": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key4": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key5": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key6": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "key7": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "ctime0": 0,
+                "ctime1": 65535,
+                "ctime2": 0,
+                "ctime3": 0,
+                "ctime4": 0,
+                "ctime5": 0,
+                "ctime6": 0,
+                "ctime7": 0,
+                "atime0": 0,
+                "atime1": 65535,
+                "atime2": 0,
+                "atime3": 0,
+                "atime4": 0,
+                "atime5": 0,
+                "atime6": 0,
+                "atime7": 0,
+                "m_Mode": 0,
+                "m_ColorSpace": -1,
+                "m_NumColorKeys": 2,
+                "m_NumAlphaKeys": 2
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 4,
+            "ImageType": 0
+        }
+    ]
+}
